@@ -1,0 +1,133 @@
+[
+  {
+    "text": "HUMANA CLAIMS OFFICE PO BOX 14601  LEXINGTON, KY 40512-4601 H U Mm Gg Nn Q  ar  PAGE 3 OF 12 DATE 05/18/2022  PROVIDER ID: 145544491119  PCKLOATEOR126P05192072 12450001411-MiV FEDERAL TAX IB: XXXXX3392 MEDINA VALLEY FAMILY PRACTICE REMI: TANCE [D: 00112233445566 PO BOX 5254 CHECK NUMBER: 0123456789 BELFAST, ME 04915-5200 BANK CODE: 721 & = HUMANA AUTOMATED REMITTANCE ADVICE DATE OF SERVICE t FEE | HUMANA/ SERVICE | ALLOWES PROVIDER REDUCTION/ ANSI (HIPAA = BENEFET | TO | CODE | CHARGE AMOUNT | DEDUCTIBLE} COPAY COINSUR DISCOUNT ; EXCLUDED , CODE AMOUNT BILLING N27 NUMBER: 221211112 RENDERING NPI NUMBER: 1234567890 PROVIDER MAME:Mickey Mouse MRR Te 1127334455 CLAIM NUMBER: 9876543210 JATIENT NAME:Mickey Mouse PAT DOB: 01/01/2022 PAT ACCT: 0123456789 SUBSCRIBER NAME: Vickey Mouse REL CD: SPOUSE GROUP: 651520 |  PLAN TYPE: NPOS - NATIONAL POS |  04/18/2022 04/18/2022 | 99213 | $0.00] 90.00 ooo] 40.00 0.00- 0,00: 0.00} 6HOS | = 5000  04/18/2022 04/18/2022] 81000 10,00| 4.22| 6.00; 0.00 0.00; 5.78. 0.00) gHoas | 422  CLAIM TOTALS 100.00| 94.22 6.00) 40.00 0,00. 5.78! 0.00 | S422  EST MBR RESPONSIBILITY 40.00 TOTAL PAID 24.22 ***REMITTANCE TOTALS*™**  SERV-CING PROVIDER NAMEVID:: Mixcey Mouse/ iXXXXX2234               i —_  Torals; 10000 9422 ~—~—«.00| 4000] ©=— 0.5.78) 0.0, ; (5422 ToTAls| 100.00] 94.22 o.0o| 40.00 0.00 5.78 0.90 / 84.22  EST MBR RESPONS-BILE:Y 40.00 TOTAL PAID 54.22 HUMANA CODES/DESCRIPTIONS 6HO TE IS FROVIDER LS A MEMBER O= THE HUMANA NETWORK. SERVICES ARE DISCOUNTED ACCORDING 70 THE NOSOTIAT=D FATE.  ANSI (HIPAA) CODES/DESCRIPTIONS ar CHARGE EXCEEDS FCE SCHESULE/MAXTMUM ALLOWAELE 02 CONTRACTED/LEGISLATES FEE ARRANGEMENT  SERVICE COCES/TREATMENT TYFES/DESCRIPTLONS Sito LB MANUAL URINALYS-S TEST WITH EXAMINATION US:NG MICROSCOPE  59213 me ESTABLISHLD PATIENT O° FICE OR OTHER OLTPATIENT VISIT ",
+    "id": 2,
+    "label": [
+      {
+        "start": 0,
+        "end": 59,
+        "text": "HUMANA CLAIMS OFFICE PO BOX 14601 LEXINGTON, KY 40512-4601",
+        "labels": [
+          "ADRESS_A"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 108,
+        "text": "05/18/2022",
+        "labels": [
+          "DATE"
+        ]
+      },
+      {
+        "start": 123,
+        "end": 135,
+        "text": "145544491119",
+        "labels": [
+          "PROVIDERID"
+        ]
+      },
+      {
+        "start": 192,
+        "end": 201,
+        "text": "XXXXX3392",
+        "labels": [
+          "TAXID"
+        ]
+      },
+      {
+        "start": 248,
+        "end": 262,
+        "text": "00112233445566",
+        "labels": [
+          "REMITTANCEID"
+        ]
+      },
+      {
+        "start": 289,
+        "end": 299,
+        "text": "0123456789",
+        "labels": [
+          "CHEQUE_NO"
+        ]
+      },
+      {
+        "start": 334,
+        "end": 337,
+        "text": "721",
+        "labels": [
+          "BANKCODE"
+        ]
+      },
+      {
+        "start": 636,
+        "end": 648,
+        "text": "Mickey Mouse",
+        "labels": [
+          "PERSON"
+        ]
+      },
+      {
+        "start": 727,
+        "end": 737,
+        "text": "01/01/2022",
+        "labels": [
+          "DATE"
+        ]
+      },
+      {
+        "start": 776,
+        "end": 788,
+        "text": "Vickey Mouse",
+        "labels": [
+          "PERSON"
+        ]
+      },
+      {
+        "start": 705,
+        "end": 717,
+        "text": "Mickey Mouse",
+        "labels": [
+          "PERSON"
+        ]
+      },
+      {
+        "start": 855,
+        "end": 865,
+        "text": "04/18/2022",
+        "labels": [
+          "DATE"
+        ]
+      },
+      {
+        "start": 866,
+        "end": 876,
+        "text": "04/18/2022",
+        "labels": [
+          "DATE"
+        ]
+      },
+      {
+        "start": 1193,
+        "end": 1205,
+        "text": "Mixcey Mouse",
+        "labels": [
+          "PERSON"
+        ]
+      },
+      {
+        "start": 1396,
+        "end": 1401,
+        "text": "54.22",
+        "labels": [
+          "AMOUNT"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2022-07-24T08:08:04.068410Z",
+    "updated_at": "2022-07-24T08:08:11.852443Z",
+    "lead_time": 765.422
+  }
+]
